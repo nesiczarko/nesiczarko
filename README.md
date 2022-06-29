@@ -3,7 +3,10 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 👨‍💻 Some of my projects are (https://talentcreativeagency.netlify.app/(https://fakewebhostingsite.netlify.app/ https://talentcreativeagency.netlify.app/)
+- 👨‍💻 Some of my projects are 
+(https://talentcreativeagency.netlify.app/ 
+(https://fakewebhostingsite.netlify.app/ 
+https://talentcreativeagency.netlify.app/)
 
 - 📫 How to reach me **nesiczarko@gmail.com**
 
